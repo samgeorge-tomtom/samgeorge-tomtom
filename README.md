@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sam George
+- 👀 I’m interested in Facilitation, OKRs
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on OKRs, Lean, Agile, Valuable contribution
+- 📫 How to reach me Slack.
